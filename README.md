@@ -6,3 +6,6 @@ Kleine Beispiel-Webseite eines Kinos.
 ## Dateien
 - `index.html` – Startseite mit Programm
 - `preise.js` – Berechnung der Ticketpreise
+
+##Team
+Wladislav Hermann
